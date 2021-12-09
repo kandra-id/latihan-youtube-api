@@ -13,6 +13,10 @@ $.ajax({
             src: profileImgUrl,
             alt: 'Kandra Wilko'
         });
+        let subs = data.items[0].statistics.subscriberCount;
+        $("<span/>",{
+            text: "subscriber" + " " + subs 
+        }).appendTo("body");
     }
 });
 
