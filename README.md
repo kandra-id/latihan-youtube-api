@@ -6,4 +6,5 @@ Skrip ini sudah dites pada layanan Blogger.com. Untuk demo bisa dilihat di https
 
 ## Thanks
 Terima kasih pada @shandikhagalih yang memberikan tutorial api youtube, mas @taufik-nurrohman untuk skrip bloggernya 
+
 NOTE: Harap menggunakan API KEY sendiri yang dapat diperoleh melalui link https://console.cloud.google.com/ dengan menggunakan akun gmail yang Anda miliki
